@@ -1,4 +1,4 @@
-# Tweener UI python script for Maya 2015
+# Tweener UI python script for Maya 2017 // Commented version --> Bernat Ferragut based on Durv comments
 
 from maya import cmds
 
